@@ -24,7 +24,7 @@ Make sure you have the following installed:
 - Matplotlib
 ## Result
 ### MNIST Dataset Images
-[MNIST Dataset Images](Images/digit_grid.png)
+![MNIST Dataset Images](Images/digit_grid.png)
 
 ## Incorrect Predictions
 ### FFD Incorrect Predictions
