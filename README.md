@@ -23,15 +23,17 @@ Make sure you have the following installed:
 - NumPy
 - Matplotlib
 ## Result
-<div style="background-color: #f0f0f0; padding: 10px;">
-    <img src="Images/digit_grid.png" alt="MNIST Dataset Images" width="500" />
-</div>
-<!-- ![MNIST Dataset Images](Images/digit_grid.png) -->
+### MNIST Dataset Images
+[MNIST Dataset Images](Images/digit_grid.png)
 
-### Incorrect Predictions
+## Incorrect Predictions
+### FFD Incorrect Predictions
 ![FFD Incorrect Predictions](Images/FDD_Incorrect_Prediction.png)
+### CNN Incorrect Predictions
 ![CNN Incorrect Predictions](Images/CNN_Incorrect_Prediction.png)
 
-### Accuracy and Loss
+## Accuracy and Loss
+### FFD Accuracy and Loss
 ![FFD Accuracy and Loss](Images/FDD_Accuracy_Loss.png)
+### CNN Accuracy and Loss
 ![CNN Accuracy and Loss](Images/CNN_Accuracy_Loss.png)
