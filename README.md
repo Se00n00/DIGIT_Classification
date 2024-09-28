@@ -22,3 +22,13 @@ Make sure you have the following installed:
 - TensorFlow/Keras
 - NumPy
 - Matplotlib
+## Result
+![MNIST Dataset Images](Images/digit_grid.png)
+
+### Incorrect Predictions
+![FFD Incorrect Predictions](Images/FDD_Incorrect_Prediction.png)
+![CNN Incorrect Predictions](Images/CNN_Incorrect_Prediction.png)
+
+### Accuracy and Loss
+![FFD Accuracy and Loss](Images/FDD_Accuracy_Loss.png)
+![CNN Accuracy and Loss](Images/CNN_Accuracy_Loss.png)
